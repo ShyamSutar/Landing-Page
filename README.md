@@ -1,2 +1,2 @@
 # Landing-Page
-just a simple landing page
+Modern Website Landing Page
